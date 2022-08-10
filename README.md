@@ -303,7 +303,7 @@ It is also particularly inspired by the great community around [#GoogleUdacitySc
 ![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=Syknapse&repo=Contribute-To-This-Project&theme=dark&show_owner=true)
 
 
-<h4 align="center">Maintainers</h4>
+<h3 align="center">Maintainers</h3>
 
 ![Repo Contributors](https://badgen.net/github/contributors/Syknapse/Contribute-To-This-Project/?label=Maintainers)
 
